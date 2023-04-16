@@ -8,3 +8,6 @@
     * ```python3 -m virtualenv venv``` (create venv)
     * ```source venv/bin/activate``` (activate env)
 * ```pip3 install -r requirements.txt```
+
+# Goal for this project
+to get familiar with NLP libraries
