@@ -8,6 +8,7 @@
     * ```python3 -m virtualenv venv``` (create venv)
     * ```source venv/bin/activate``` (activate env)
 * ```pip3 install -r requirements.txt```
+* NOTE: nltk.download('wordnet') need to be run to properly install wordnet, I ran it and manually move the downloaded file to virtual env folder
 
 # Goal for this project
 to get familiar with NLP libraries
