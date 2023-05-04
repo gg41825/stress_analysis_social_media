@@ -6,3 +6,8 @@ seaborn==0.12.1
 textblob==0.17.1
 wordcloud==1.8.2.2
 nltk==3.8.1
+tensorflow-macos==2.9.0
+tensorflow_hub==0.13.0
+# tensorflow-text==2.12.1 # need to manual download tensorflow-text for m1 chip and above
+tensorflow-metal==0.5.0
+transformers==4.28.1
